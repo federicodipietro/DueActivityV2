@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MainAct">Main Activity</string>
+    <string name="app_name">DuaActivityV2</string>
+	<string name="btnStart">Start</string>
+	<string name="SecAct">Second Activity</string>
+	
+</resources>
